@@ -1,0 +1,7 @@
+div:hover {
+    border: olive solid 3px;
+}
+
+div:nth-of-type(1) {
+    background-color: blueviolet;
+}
